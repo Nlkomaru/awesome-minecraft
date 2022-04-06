@@ -84,6 +84,8 @@ _Utilities that don't particularly belong in any other category._
 - [helper](https://github.com/lucko/helper) - A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins.
 - [Item-NBT-API](https://github.com/tr7zw/Item-NBT-API) - Add custom NBT tags to Items/Tiles/Entities without NMS.
 - [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+- [MCCoroutine](https://github.com/Shynixn/MCCoroutine) - An extension to bukkit and sponge server implementations to use Kotlin Coroutines .
+- [scoreboard-library](https://github.com/MegavexNetwork/scoreboard-library) - Powerful packet-level Scoreboard library for Paper/Spigot servers. 
 - [SchematicJS](https://github.com/EngineHub/SchematicJS/) - JavaScript library for working with Minecraft schematics.
 - [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer/) - Renders Minecraft schematics into a web canvas.
 - [SquirrelID](https://github.com/EngineHub/SquirrelID/) - Library for working with Mojang profiles
@@ -137,6 +139,7 @@ _Plugins that don't particularly fit in with any existing category._
 - [DataSync](https://github.com/AnvilPowered/DataSync) - A minecraft plugin to synchronize and backup player data to a database
 - [NuVotifier](https://github.com/nuvotifier/NuVotifier) - A fork of Votifier, with more robust code and vote forwarding.
 - [OnTime](https://github.com/AnvilPowered/OnTime) - A cross-platform player time management plugin.
+- [OpenAudioMc](https://github.com/Mindgamesnl/OpenAudioMc) - A real time web client for minecraft to play and manage sounds, game notifications and much more. 
 - [Plan](https://github.com/plan-player-analytics/Plan) - Player Analytics plugin for Minecraft Server platforms.
 - [spark](https://github.com/lucko/spark) - A performance profiling plugin based on sk89q's WarmRoast profiler.
 
